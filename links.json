@@ -1,0 +1,21 @@
+{
+  "name": "MidzDev",
+  "description": "Web Developer/Engineer",
+  "links": [
+    {
+      "name": "GitHub",
+      "link": "https://github.com/midzdev",
+      "icon": null
+    },
+    {
+      "name": "Twitter",
+      "link": "https://twitter.com/midzdev",
+      "icon": null
+    },
+    {
+      "name": "Instagram",
+      "link": "https://instagram.com/midzdev",
+      "icon": null
+    }
+  ]
+}
